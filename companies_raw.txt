@@ -1,0 +1,65 @@
+1. T1 (Т1) | https://t1.ru | Михаил Кузнецов (Коммерческий директор) | info@t1.ru
+2. СКБ Контур (Контур) | https://kontur.ru | Михаил Сродных (Генеральный директор) | world@kontur.ru
+3. Saby (СБИС) | https://saby.ru | Юрий Киселев (Директор по развитию партнерской сети) | info@saby.ru
+4. Just AI | https://just-ai.com | Кирилл Петров (CEO) | contact@just-ai.com
+5. VisionLabs | https://visionlabs.ru | Дмитрий Марков (Генеральный директор) | sales@visionlabs.ru
+6. Cognitive Technologies | https://cognitive.ru | — | sales@cognitivelot.ru
+7. Directum (Директум) | https://directum.ru | Гафур Нигматулин (Генеральный директор) | office@directum.ru
+8. РосБизнесСофт (RBS360) | https://rbs360.ru | — | sale@rbs-crm.ru
+9. Sherpa RPA (Шерпа Роботикс) | https://sherparpa.ru | Константин Артемьев (Генеральный директор) | info@sherparpa.ru
+10. Nodul | https://nodul.ru | — | info@nodul.ru
+11. Nanosemantics (Наносемантика) | https://nanosemantics.ai | Станислав Ашманов (Генеральный директор) | hello@nanosemantics.ai
+12. Инфосистемы Джет (Jet Infosystems) | https://jet.su | Олег Молодых (Генеральный директор) | info@jet.su
+13. ROBIN RPA | https://rpa-robin.ru | Павел Борченко (Управляющий директор) | info@rpa-robin.ru
+14. EORA (Exolve AI) | https://eora.ru | — | hello@eora.ru
+15. red_mad_robot | https://redmadrobot.ru | — | hello@redmadrobot.com
+16. ГигаЧат Бизнес (Сбер) | https://enterprise.giga.chat | Владимир Толмачёв (Генеральный директор) | sales@gigab2b.ru
+17. МТС AI (MWS AI) | https://mts.ai | — | info@mts.ai
+18. Лаборатория Касперского | https://kaspersky.ru | Евгений Касперский (Генеральный директор) | sales@kaspersky.com
+19. T-Технологии (Тинькофф) | https://t-technologies.ru | — | ir@t-technologies.ru
+20. Bitrix24 (1С-Битрикс) | https://bitrix24.ru | Юрий Николаев (Директор по продажам) | sales@1c-bitrix.ru
+21. Strategy Partners Group | https://strategy.ru | — | inbox@strategy.ru
+22. SKOLKOVO Consulting | https://consulting.sk.ru | — | ConsultingCenter@sk.ru
+23. Яков и Партнеры | https://yakovpartners.ru | Сергиенко Яков Вячеславович (CEO) | info@yakovpartners.ru
+24. Б1 (ex-EY Россия) | https://b1.ru | Ольга Архангельская (партнер) | tender@b1.ru
+25. КРОК (CROC Consulting) | https://croc.ru | — | info@croc.ru
+26. Текарт | https://techart.ru | Анна Печенина (руководитель департамента) | research@techart.ru
+27. АБН-КОНСАЛТ | https://abn-consult.ru | Бобырев Максим Юрьевич (CEO) | info@abn-consult.ru
+28. APEX Consulting Group | https://apex-expert.ru | — | info@apex-expert.ru
+29. Директ ИНФО Консалтинг | https://directinfo.net | — | info@directinfo.net
+30. Евклид (ev.agency) | https://ev.agency | — | s1@ev.agency
+31. ASMI | https://asmi-marketing.ru | — | asmi@asmi-marketing.ru
+32. SellPromo | https://sellpromo.ru | Александр Горбунов (CEO) | privet@sellpromo.ru
+33. ОМНА МАРКЕТИНГ | https://omna-marketing.ru | Александра Бисаева (основатель) | omna-market@yandex.ru
+34. Adamos Logistic | https://adamos.ru | — | sales@adamos.ru
+35. RosLogistics (Авалон Лоджистикс) | https://roslogistics.ru | Соловьева Елена Михайловна (CEO) | ros_info@roslogistics.ru
+36. JML Global (JML) | https://jml.global | Алексей Миронов | a.mironov@jm-logistic.com
+37. Пепеляев Групп | https://pgplaw.ru | Зайцев Сергей Евгеньевич (CEO) | info@pgplaw.ru
+38. Capital Legal Services (CLS) | https://cls.ru | — | cls@cls.ru
+39. Городисский и Партнеры | https://gorodissky.ru | — | pat@gorodissky.com
+40. Нетология (B2B) | https://netology.ru | — | b2b@netology.ru
+41. СКИЛАЗ (Skillaz) | https://skillaz.ru | Христенко Виктор Николаевич | d.golovacheva@skillaz.ru
+42. МЕГАПЛАН (Megaplan) | https://megaplan.ru | Козлов Сергей Михайлович | info@megaplan.ru
+43. РИТЕЙЛДРАЙВЕР (RetailCRM) | https://retailcrm.ru | Бороздин Дмитрий Сергеевич | support@retailcrm.ru
+44. КОНСОЛЬ.ПРО | https://konsol.pro | Стельмах Александр Викторович | a.stelmakh@konsol.pro
+45. КЛАУДПЭЙМЕНТС (CloudPayments) | https://cloudpayments.ru | Глазачева Татьяна / Спиридонов Дмитрий | ceo@cp.ru
+46. БЕСТ2ПЕЙ (Best2Pay) | https://best2pay.net | Бозуркаева Марьям Саидовна | hr@best2pay.net
+47. РОБОКАССА (Robokassa) | https://robokassa.com | Сигов Сергей Алексеевич | support@robokassa.ru
+48. ВВТЕХ (Wowworks) | https://wowworks.ru | Дядиченко Сергей | sales@wowworks.ru
+49. ФИНОЛОГ (Finolog) | https://finolog.ru | Лаптев Виктор Дмитриевич | hello@finolog.ru
+50. ЮНИТПЭЙ (Unitpay) | https://unitpay.ru | Козлов Дмитрий Юрьевич | d.kozlov@unitpay.ru
+51. СОЛАР СТАФФ (Solar Staff) | https://solarstaff.com | Шинкаренко Роман | sales@solar-staff.com
+52. СНАБВЕЙ (Snabway) | https://snabway.ru | Калашников Павел | zakupki@snabway.ru
+53. ЛИДЕР-М | https://leader-rf.ru | Терещенко Дмитрий Олегович | info@leader-rf.ru
+54. ПРОФСИСТЕМА | https://profsale-opt.ru | Лемзяков Сергей Вячеславович | info@profsale-opt.ru
+55. ДЕЛКО | https://del-ko.ru | Санджар Ашуралиев | hello@del-ko.ru
+56. ЭЙРТРАНСС | https://airtranss.ru | Мишечкин Сергей Владимирович | office@airtranss.ru
+57. ДОСТАВИСТА | https://dostavista.ru | Зубков Дмитрий | op@dostavista.ru
+58. ПУЛКОВСКАЯ ЛОГИСТИЧЕСКАЯ КОМПАНИЯ | https://plkcargo.ru | Левшин Никита Вадимович | info@plkcargo.ru
+59. ВЭЙ-ГРУП (Way Group) | https://wayg.ru | Оганесян Аветик Мкртичевич | info@wayg.ru
+60. БУДУ | https://budu.jobs | Фатеев Антон Дмитриевич | hello@budu.jobs
+61. ПРОФИЛУМ | https://profilum.ru | Нечаев Никита | sa**ik@mail.ru
+62. А2Б | https://a2b.su | Зарипов Артём Абрикович | info@a2b.su
+63. СЕВЕРСТАЛЬ | https://severstal.com | Артем Комиссаров (CCO) | severstal@severstal.com
+64. НЛМК | https://nlmk.com | Андреев Дмитрий Николаевич | sales@nlmk.com
+65. ММК | https://mmk.ru | Ненашев Сергей Александрович | infommk@mmk.ru
