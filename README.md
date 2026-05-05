@@ -95,7 +95,7 @@ python build_final_csv.py
 
 ## 🔗 ПОЛЕЗНЫЕ ССЫЛКИ
 
-- **Polza Agency:** [Сайт агентства]
+- **Polza Agency:** https://polzaagency.com/
 - **Google Таблицы:** Импортируйте `polza_companies_final.csv` для рассылки
 
 ---
